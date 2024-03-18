@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = peker.nilay@gmail.com
+	name = Nilay Peker
